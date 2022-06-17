@@ -7,6 +7,6 @@
 
 home page
 
-[Humans](Humans.md)
+[Humans](Public/Library/Humans.md)
 
-[SomeNote](SomeNote.md)
+[SomeNote](Notes/SomeNote.md)
