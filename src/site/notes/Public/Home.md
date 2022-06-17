@@ -8,3 +8,5 @@
 home page
 
 [Humans](Humans.md)
+
+[SomeNote](SomeNote.md)
