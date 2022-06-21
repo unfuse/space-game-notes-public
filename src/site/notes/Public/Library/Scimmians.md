@@ -36,7 +36,7 @@ There is, however, one notable and hilarious exception: 
 
 ## The Human Incident
 
-They encountered these upstart, scrappy, and fur-less Scimmian species ([Humans](Humans.md)) that obviously just made it to their own Space Age, given their lack of technology and not broadcasting on Regulation Channels. Seeing an opportunity to gain favor with the Regulation they took it upon themselves to help this species transition the rest of the way into the Galactic Community. Share the common language, basics for rules and economy, and see what they can gain from this new arrival to better themselves.
+They encountered these upstart, scrappy, and fur-less Scimmian species ([Humans](Humans)) that obviously just made it to their own Space Age, given their lack of technology and not broadcasting on Regulation Channels. Seeing an opportunity to gain favor with the Regulation they took it upon themselves to help this species transition the rest of the way into the Galactic Community. Share the common language, basics for rules and economy, and see what they can gain from this new arrival to better themselves.
 
 In the first official meeting in the Regulation's Uplift Protocol, where introductions would be made, common language would be established, and sharing knowledge of the larger community, disaster struck. The humans innocently presented an exotic looking yellow pustule to Regional Commander Ge'org, who was intrigued (dare say… curious) about this offering. With obvious gestures from the Humans he ate the thing and was struck with the worst poisonous assault of pain and vomiting that has rarely been witnessed in all of Scimmian history! Within mere moments of the event Ge'org fell ill, unconscious, then perished. 
 
