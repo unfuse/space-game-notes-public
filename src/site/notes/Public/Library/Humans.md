@@ -43,7 +43,7 @@ With a notable and hilarious exception.
 
 ## The Scimmian Incident 
 
-Their first interaction with an alien species was the [Scimmians](Scimmians.md), which to their innocent, naive, and frankly kinda-racist opinion seemed identical to that of Earth monkeys in almost every way. Relations started fairly neutral but positive until a particular encounter with a high ranking and prominent member of their government. Everything was going fine until the Human delegation presented a simple Banana to the leader, assuming that such a thing would be a tasty and pleasing treat for them. 
+Their first interaction with an alien species was the [[Public/Library/Scimmians|Scimmians]] which to their innocent, naive, and frankly kinda-racist opinion seemed identical to that of Earth monkeys in almost every way. Relations started fairly neutral but positive until a particular encounter with a high ranking and prominent member of their government. Everything was going fine until the Human delegation presented a simple Banana to the leader, assuming that such a thing would be a tasty and pleasing treat for them. 
 
 Never in the history of the Scimmians was a more toxic, incompatible, and lethal delicacy ever discovered or would ever be discovered.
 
