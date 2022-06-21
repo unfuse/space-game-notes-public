@@ -7,6 +7,8 @@
 
 home page
 
-[Humans](Public/Library/Humans.md)
+[Humans](Public/Library/Humans)
 
-[SomeNote](Notes/SomeNote.md)
+[SomeNote](Notes/SomeNote)
+
+[Scimmians](Scimmians)
